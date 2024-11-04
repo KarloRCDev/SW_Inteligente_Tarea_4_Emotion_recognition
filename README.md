@@ -55,6 +55,6 @@ pip install tensorflow keras opencv-python numpy matplotlib
 - Abre el notebook recognition_of_emotions_real_time.ipynb.
 - Ejecuta el código para comenzar a detectar emociones en tiempo real a través de tu cámara.
 
-#Resultados
+## Resultados
 
 - El modelo ha sido evaluado utilizando varias métricas, y los resultados se pueden revisar en los notebooks correspondientes. Las métricas incluyen precisión, recall y F1-score, que se muestran en una matriz de confusión.
